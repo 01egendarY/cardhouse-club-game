@@ -1,0 +1,22 @@
+# Development material never belongs in this public showcase
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.luau
+*.lua
+*.blend
+*.fbx
+*.key
+*.pem
+.env
+.env.*
+src/
+tools/
+backups/
+raw/
+*.log
+*.tmp
+__pycache__/
+Thumbs.db
+.DS_Store

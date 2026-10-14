@@ -1,67 +1,51 @@
-# Cardhouse Club · Клуб Картхауз
+# Cardhouse Club
 
-**Card games, a cozy club, and parkour above the clouds.**
+**Version 1.0 · Card games, a cozy club, and parkour above the clouds.**
 
-[Play on Roblox](https://www.roblox.com/games/88375245233005/Cardhouse-Club)
+[Play on Roblox](https://www.roblox.com/games/88375245233005/Cardhouse-Club) · [Version 1.0](https://github.com/01egendarY/cardhouse-club-game/releases/tag/v1.0) · [All updates](https://github.com/01egendarY/cardhouse-club-game/releases) · [Русский](README.ru.md)
 
 ![Cardhouse Club](media/cover.png)
-
-## English
 
 Meet friends at a card table, practise against bots, or take a break with parkour.
 
 - Classic and Transfer Durak; Goat with 36 or 52 cards.
-- Games with other players and practice tables with bots.
-- A club to explore, collectible card backs, chairs, and celebration effects.
-- Card Cosmos and three sky island routes: Sunlit Path, Willowfall Circuit, and Cloudbloom Ascent.
-- Prism Tempest: an optional premium parkour route with moving platforms, light barriers, and a starlight palace.
-- Coins earned through play, daily tasks, achievements, and secrets.
-- English and Russian interfaces, with layouts for computers, phones, and tablets.
+- Games with other players, duels and practice tables with bots.
+- A club to explore, collectible card backs, chairs and celebration effects.
+- Card Cosmos and three sky island routes: Sunlit Path, Willowfall Circuit and Cloudbloom Ascent.
+- Prism Tempest: optional premium parkour with moving platforms, light barriers and a walkable starlight palace.
+- Coins earned through play, daily tasks, achievements and secrets.
+- English and Russian interfaces, with layouts for computers, phones and tablets.
 
-Card games have no entry wagers and no coin penalty for losing. Optional purchases include cosmetics, coins, abilities, and access to the premium parkour route.
+A Roblox account and the Roblox client are required. Play the game through Roblox; this repository does not distribute an installable game or editable place.
 
-## Русский
+Card games have no entry wagers and no coin penalty for losing. Optional purchases include cosmetics, coins, abilities and access to the premium route. Leaving an unfinished card game voluntarily prevents joining another card game for three minutes. Required turns have an inactivity warning at 30 seconds and removal after 60 seconds.
 
-Собирайтесь с друзьями за карточным столом, тренируйтесь с ботами и отправляйтесь на паркур между партиями.
+## Trailer
 
-- Классический и переводной «Дурак», «Козёл» на 36 и 52 карты.
-- Партии с игроками и отдельные тренировочные столы с ботами.
-- Уютный клуб, коллекция рубашек карт, кресел и эффектов празднования.
-- Карточный космос и три трассы небесного острова: «Солнечная тропа», «Ивовый круг» и «Облачный подъём».
-- Дополнительная платная трасса «Призматическая буря»: движущиеся платформы, световые барьеры и звёздный дворец.
-- Монеты за игру, ежедневные задания, достижения и секреты.
-- Русский и английский интерфейсы, управление на ПК, телефонах и планшетах.
+Real card decisions and in-game flyovers, recorded in Studio Play. 48 seconds, 720p, with music.
 
-В карточных партиях нет вступительных ставок и штрафа монетами за поражение. Дополнительные покупки: косметика, монеты, способности и доступ к платному паркуру.
+https://github.com/user-attachments/assets/27bf36b7-583b-4d8a-a276-af33a1c07d0c
 
-## Video & screenshots · Видео и скриншоты
+[Download the high-quality 720p60 trailer](https://github.com/01egendarY/cardhouse-club-game/releases/download/v1.0/cardhouse-club-master.mp4)
 
-Real footage and screenshots from the game. / Настоящие кадры игры.
+## Screenshots
 
-[![Watch the 45-second trailer / Смотреть ролик](media/trailer-poster.jpg)](https://github.com/01egendarY/cardhouse-club-game/raw/refs/heads/main/media/cardhouse-club-trailer.mp4)
-
-[Watch / download the trailer · Смотреть / скачать ролик](media/cardhouse-club-trailer.mp4) — 45 seconds, 720p, silent. / 45 секунд, 720p, без звука.
-
-| Card games · Карты | Club · Клуб |
+| Durak | Goat |
 | --- | --- |
-| ![A real Durak game against bots](media/durak-game.jpg) | ![The card club](media/club-hall.jpg) |
+| ![Durak gameplay](media/durak-game.png) | ![Goat gameplay](media/goat-game.png) |
 
-| Sky island · Небесный остров | Sunlit Path · Солнечная тропа |
+| Club | Sky island |
 | --- | --- |
-| ![Sky island and its routes](media/sky-island.jpg) | ![Sunlit Path ring platforms](media/sunlit-rings.jpg) |
+| ![Cardhouse Club hall](media/club-hall.png) | ![Sky Gardens](media/sky-island.png) |
 
-| Card Cosmos · Карточный космос | Prism Tempest · Призматическая буря |
+| Card Cosmos | Prism Tempest |
 | --- | --- |
-| ![Card Cosmos parkour](media/card-cosmos.jpg) | ![The starlight palace](media/starlight-palace.jpg) |
+| ![Dark Card Cosmos in Play mode](media/card-cosmos.png) | ![Starlight palace](media/starlight-palace.png) |
 
-## Updates · Обновления
+## Updates and feedback
 
-See [CHANGELOG.md](CHANGELOG.md) for player-facing updates.
+[Changelog](CHANGELOG.md) · [Release history](https://github.com/01egendarY/cardhouse-club-game/releases) · [Report a bug or suggest an idea](https://github.com/01egendarY/cardhouse-club-game/issues)
 
-Report a bug or suggest an idea in [Issues](https://github.com/01egendarY/cardhouse-club-game/issues).
+For bugs, include your device, game language and the steps that led to the issue. A screenshot helps; do not include personal information.
 
-Сообщить об ошибке или предложить идею можно в [Issues](https://github.com/01egendarY/cardhouse-club-game/issues). Для ошибок укажите устройство, язык игры, действия перед ошибкой и приложите скриншот, если возможно. Не публикуйте личные данные.
-
-This repository presents the game. Game source code and place files are not distributed here.
-
-Roblox is a trademark of Roblox Corporation. This is an independent game project.
+Game source and editable place files are not distributed here. Roblox is a trademark of Roblox Corporation. This is an independent game project.
