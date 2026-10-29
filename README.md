@@ -16,7 +16,7 @@ Meet friends at a card table, practise against bots, or take a break with parkou
 - Coins earned through play, daily tasks, achievements and secrets.
 - English and Russian interfaces, with layouts for computers, phones and tablets.
 
-A Roblox account and the Roblox client are required. Play the game through Roblox; this repository does not distribute an installable game or editable place.
+A Roblox account and the Roblox client are required. Current Roblox audience: ages16+, Moderate (unplayable gambling content). Play the game through Roblox; this repository does not distribute an installable game or editable place.
 
 Card games have no entry wagers and no coin penalty for losing. Optional purchases include cosmetics, coins, abilities and access to the premium route. Leaving an unfinished card game voluntarily prevents joining another card game for three minutes. Required turns have an inactivity warning at 30 seconds and removal after 60 seconds.
 
