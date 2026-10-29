@@ -1,5 +1,14 @@
 # Changelog
 
+## October 29, 2026 update
+
+- Larger public cards, clearer attacker/defender highlights, and revised phone/tablet layouts.
+- Direct drag-to-play and target defense, multiple-card defense, and defense Undo during the round review.
+- Skin artwork on card faces, outlined readable symbols, and a draw pile styled separately for each viewer.
+- Optional throw-in windows pass after 30 seconds. Finished Durak players can leave without the unfinished-game restriction.
+- Bot Durak rewards non-last finishes; online rewards first place. Earned results survive disconnects during profile writes.
+- Updated Durak and Goat screenshots. The original 1.0 trailer remains available as the October 14 recording.
+
 ## Version 1.0 — 2026-10-14
 
 Published on Roblox and checked by the owner with a friend. The GitHub release records this update and its presentation media; it does not install or deploy the game.

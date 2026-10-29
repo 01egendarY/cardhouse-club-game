@@ -20,9 +20,13 @@ A Roblox account and the Roblox client are required. Play the game through Roblo
 
 Card games have no entry wagers and no coin penalty for losing. Optional purchases include cosmetics, coins, abilities and access to the premium route. Leaving an unfinished card game voluntarily prevents joining another card game for three minutes. Required turns have an inactivity warning at 30 seconds and removal after 60 seconds.
 
+The October 29 update adds larger cards and clearer roles, direct drag-to-play and drag-to-defend controls, multiple-card defense, and card artwork on both faces and backs. Each player sees the draw pile in their own selected skin. Finished Durak players can leave with their result recorded; optional throw-ins automatically pass after 30 seconds.
+
 ## Trailer
 
 Real card decisions and in-game flyovers, recorded in Studio Play. 48 seconds, 720p, with music.
+
+The trailer was recorded on October 14. The screenshots below show the updated card interface.
 
 https://github.com/user-attachments/assets/27bf36b7-583b-4d8a-a276-af33a1c07d0c
 
