@@ -1,5 +1,10 @@
 # Changelog
 
+## October 30, 2026 media update
+
+- Replaced the README trailer with the approved43.4-second edit featuring current card gameplay, drag-to-attack, defense, two-card Goat leads and Moonlit Koi artwork.
+- Added a dated720p60 download to the existing1.0 release; original October14 media remains archived. Game version/tag unchanged.
+
 ## October 29, 2026 update
 
 - Larger public cards, clearer attacker/defender highlights, and revised phone/tablet layouts.

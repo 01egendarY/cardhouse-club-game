@@ -24,13 +24,13 @@ The October 29 update adds larger cards and clearer roles, direct drag-to-play a
 
 ## Trailer
 
-Real card decisions and in-game flyovers, recorded in Studio Play. 48 seconds, 720p, with music.
+Real card decisions and in-game flyovers, recorded in Studio Play. 43.4 seconds, 720p, with music.
 
-The trailer was recorded on October 14. The screenshots below show the updated card interface.
+Updated October 30: current card interface, drag-to-attack, defense, two-card Goat leads and Moonlit Koi artwork. Club and parkour flyovers retained from the October 14 recording.
 
-https://github.com/user-attachments/assets/27bf36b7-583b-4d8a-a276-af33a1c07d0c
+https://github.com/user-attachments/assets/8a57c033-88b0-402f-aad6-bee23a22e7cf
 
-[Download the high-quality 720p60 trailer](https://github.com/01egendarY/cardhouse-club-game/releases/download/v1.0/cardhouse-club-master.mp4)
+[Download the high-quality 720p60 trailer](https://github.com/01egendarY/cardhouse-club-game/releases/download/v1.0/cardhouse-club-trailer-2026-10-30.mp4)
 
 ## Screenshots
 

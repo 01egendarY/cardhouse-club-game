@@ -24,13 +24,13 @@
 
 ## Видео
 
-Реальные ходы и пролёты, записанные в Studio Play. 48 секунд, 720p, с музыкой.
+Реальные ходы и пролёты, записанные в Studio Play. 43,4 секунды, 720p, с музыкой.
 
-Трейлер записан 14 октября. Ниже — скриншоты обновлённого карточного интерфейса.
+Обновлено 30 октября: новый карточный интерфейс, перетаскивание, защита, ходы несколькими картами в «Козле» и скин «Лунные кои». Пролёты клуба и паркура сохранены из записи 14 октября.
 
-https://github.com/user-attachments/assets/27bf36b7-583b-4d8a-a276-af33a1c07d0c
+https://github.com/user-attachments/assets/8a57c033-88b0-402f-aad6-bee23a22e7cf
 
-[Скачать трейлер в качестве 720p60](https://github.com/01egendarY/cardhouse-club-game/releases/download/v1.0/cardhouse-club-master.mp4)
+[Скачать трейлер в качестве 720p60](https://github.com/01egendarY/cardhouse-club-game/releases/download/v1.0/cardhouse-club-trailer-2026-10-30.mp4)
 
 ## Скриншоты
 
